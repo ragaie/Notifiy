@@ -12,6 +12,8 @@
 		813365111F32027C0032E5D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8133650F1F32027C0032E5D3 /* Main.storyboard */; };
 		813365131F32027C0032E5D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 813365121F32027C0032E5D3 /* Assets.xcassets */; };
 		813365161F32027C0032E5D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 813365141F32027C0032E5D3 /* LaunchScreen.storyboard */; };
+		8133651E1F3202EF0032E5D3 /* Notify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8133651D1F3202EF0032E5D3 /* Notify.swift */; };
+		813365201F3206700032E5D3 /* notify.mov in Resources */ = {isa = PBXBuildFile; fileRef = 8133651F1F3206700032E5D3 /* notify.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		813365121F32027C0032E5D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		813365151F32027C0032E5D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		813365171F32027C0032E5D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8133651D1F3202EF0032E5D3 /* Notify.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Notify.swift; sourceTree = "<group>"; };
+		8133651F1F3206700032E5D3 /* notify.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = notify.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		8133650A1F32027C0032E5D3 /* Chtar-Notification */ = {
 			isa = PBXGroup;
 			children = (
+				8133651F1F3206700032E5D3 /* notify.mov */,
+				8133651D1F3202EF0032E5D3 /* Notify.swift */,
 				8133650B1F32027C0032E5D3 /* AppDelegate.swift */,
 				8133650D1F32027C0032E5D3 /* ViewController.swift */,
 				8133650F1F32027C0032E5D3 /* Main.storyboard */,
@@ -127,6 +133,7 @@
 				813365161F32027C0032E5D3 /* LaunchScreen.storyboard in Resources */,
 				813365131F32027C0032E5D3 /* Assets.xcassets in Resources */,
 				813365111F32027C0032E5D3 /* Main.storyboard in Resources */,
+				813365201F3206700032E5D3 /* notify.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +146,7 @@
 			files = (
 				8133650E1F32027C0032E5D3 /* ViewController.swift in Sources */,
 				8133650C1F32027C0032E5D3 /* AppDelegate.swift in Sources */,
+				8133651E1F3202EF0032E5D3 /* Notify.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
