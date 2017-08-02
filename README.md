@@ -6,4 +6,4 @@ this view to show small piece of  information to user when app is active like no
 
 Notify.init(" welcome to chtar notification").Show()
 
- ![alt tag](https://github.com/ragaie/Toast/blob/master/Screen%20Shot%202017-07-30%20at%203.20.10%20PM.png)
+ ![alt tag](https://github.com/ragaie/NotificationView/blob/master/Chtar-Notification/notify.mov)
