@@ -14,6 +14,7 @@
 		813365161F32027C0032E5D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 813365141F32027C0032E5D3 /* LaunchScreen.storyboard */; };
 		8133651E1F3202EF0032E5D3 /* Notify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8133651D1F3202EF0032E5D3 /* Notify.swift */; };
 		813365201F3206700032E5D3 /* notify.mov in Resources */ = {isa = PBXBuildFile; fileRef = 8133651F1F3206700032E5D3 /* notify.mov */; };
+		813365221F3209CF0032E5D3 /* Simulator Screen Shot Aug 2, 2017, 3.23.05 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 813365211F3209CF0032E5D3 /* Simulator Screen Shot Aug 2, 2017, 3.23.05 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		813365171F32027C0032E5D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8133651D1F3202EF0032E5D3 /* Notify.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Notify.swift; sourceTree = "<group>"; };
 		8133651F1F3206700032E5D3 /* notify.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = notify.mov; sourceTree = "<group>"; };
+		813365211F3209CF0032E5D3 /* Simulator Screen Shot Aug 2, 2017, 3.23.05 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Aug 2, 2017, 3.23.05 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		8133650A1F32027C0032E5D3 /* Chtar-Notification */ = {
 			isa = PBXGroup;
 			children = (
+				813365211F3209CF0032E5D3 /* Simulator Screen Shot Aug 2, 2017, 3.23.05 PM.png */,
 				8133651F1F3206700032E5D3 /* notify.mov */,
 				8133651D1F3202EF0032E5D3 /* Notify.swift */,
 				8133650B1F32027C0032E5D3 /* AppDelegate.swift */,
@@ -132,6 +135,7 @@
 			files = (
 				813365161F32027C0032E5D3 /* LaunchScreen.storyboard in Resources */,
 				813365131F32027C0032E5D3 /* Assets.xcassets in Resources */,
+				813365221F3209CF0032E5D3 /* Simulator Screen Shot Aug 2, 2017, 3.23.05 PM.png in Resources */,
 				813365111F32027C0032E5D3 /* Main.storyboard in Resources */,
 				813365201F3206700032E5D3 /* notify.mov in Resources */,
 			);
